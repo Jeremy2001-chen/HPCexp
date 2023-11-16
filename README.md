@@ -2,6 +2,6 @@
 
 ## sgemm
 
-Speed up single core matrix power.
+Speed up single-core matrix power.
 
-Shoule be the Intel CPU, which contain AVX512 instrction.
+It should be the Intel CPU, which contain AVX512 instruction.
