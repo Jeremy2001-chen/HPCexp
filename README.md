@@ -15,3 +15,7 @@ We use mpi & GPU to speed up.
 ## spgemm
 
 Speed up single GPU sparse matrix power.
+
+## spgemmF
+
+Speed up sparse matrix power on Multiple GPUs.
